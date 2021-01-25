@@ -463,11 +463,13 @@ select
     sid,sname,sage
 from student
 where weekofyear(sage) = weekofyear(date_sub(curdate(),interval 1 week));
+
 -- 49、查询本月过生日的学生
 select
     sid,sname,sage
 from student
 where month(sage) = month(curdate());
+
 -- 50、查询下月过生日的学生
 select
     sid,sname,sage
