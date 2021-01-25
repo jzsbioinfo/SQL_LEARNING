@@ -4,11 +4,14 @@ resources used to study SQL
 
 ## SQL 50 questinos
 
--- https://zhuanlan.zhihu.com/p/53302593
+-- https://zhuanlan.zhihu.com/p/346816567
+
 create database test50;
+
 use test50;
 
 -- 创建表格数据
+
 create table Student(sid varchar(10),sname varchar(10),sage datetime,ssex nvarchar(10));
 insert into Student values('01' , '赵雷' , '1990-01-01' , '男');
 insert into Student values('02' , '钱电' , '1990-12-21' , '男');
