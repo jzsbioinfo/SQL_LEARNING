@@ -14,7 +14,7 @@ https://github.com/jzsbioinfo/SQL_LEARNING/tree/main/tianchi_sql
 牛客网：https://www.nowcoder.com/ta/sql
 leetcode: https://leetcode-cn.com/problemset/database/
 # 书籍
-SQL基础教程
+SQL基础教程  
 SQL必知必会
 
 
